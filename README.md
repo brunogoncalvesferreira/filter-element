@@ -1,12 +1,27 @@
 # Filtrando elemento
 
-Projeto para filtrar elementos na DOM com javascript.
+Projeto para filtrar elementos na DOM com javascript puro.
 
 ## Screenshots
 
-<img width="100%" src="./.github/preview1.png"/>
-<img width="100%" src="./.github/preview2.png"/>
+<p align="center">
+<img width="600px" src="./.github/preview1.png"/>
+<img width="600px" margin="auto" src="./.github/preview2.png"/>
+</p>
 
 ## Demonstração
 
-<img width="100%" src="./.github/video.gif"/>
+<p align="center">
+<img width="600px" src="./.github/video.gif"/>
+</p>
+
+## Tecnologias
+
+As seguintes tecnologias foram utilizadas para construção da aplicação:
+
+- JavaScript
+- HTML
+- CSS
+- Vite
+- Phosphor Icons
+- Git e Github
