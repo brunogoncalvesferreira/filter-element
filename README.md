@@ -25,3 +25,7 @@ As seguintes tecnologias foram utilizadas para construção da aplicação:
 - Vite
 - Phosphor Icons
 - Git e Github
+
+## Autores
+
+- [@brunogoncalvesferreira](https://www.github.com/brunogoncalvesferreira)
